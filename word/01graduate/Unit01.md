@@ -57,7 +57,7 @@
 #### supplement
 
 - legisiation
-##mean
+## mean
 
 - meaning
 - well-meaning
@@ -82,7 +82,7 @@
 #### supplement
 
 - impact
-##live
+## live
 
 - alive
 - deliver
@@ -99,14 +99,14 @@
 - survival
 - inhabit
 - settle
-##federal
+## federal
 
 - federation
 #### supplement
 
 - FBI（Federal Bursu of Invertigation）
 - CIA （Central Intelligece Agency）
-##large
+## large
 
 - largely
 - enlarge
@@ -116,7 +116,7 @@
 - bulky
 - outsize
 - huge
-##mark
+## mark
 
 - market
 - marketplace
@@ -131,7 +131,7 @@
 - spot
 - stain
 - symbol
-##system
+## system
 
 - systematic
 - systematically
@@ -140,7 +140,7 @@
 - regime
 - organization
 - structure
-##stress
+## stress
 
 #### supplement
 
