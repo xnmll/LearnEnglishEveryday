@@ -75,7 +75,7 @@
 
 - implication
 
-##influence
+## influence
 
 - influence
 - influential
