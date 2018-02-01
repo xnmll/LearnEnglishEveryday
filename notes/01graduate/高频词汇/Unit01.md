@@ -336,4 +336,4 @@ Because representative government presupposes an informed citizenry, the report 
 
 -----
 
-In several of the studies , when stressed-out female rats had their ovaries (the female reproductive organs)removed, their chemical responses  became equal to those of the males.
+In several of the studies , when stressed-out female rats had their ovaries (the female reproductive organs)removed, their chemical responses  became equal to those of the males. 
