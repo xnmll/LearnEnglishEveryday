@@ -26,7 +26,9 @@
 ├── notes                 … 笔记    
 ├── sign in               … 签到表 
 ├── the literature        … 文献资料 
-├── word                  … 单词本   
+├── word                  … 单词本  
+├── writing               … 考研作文（每日一篇）
+├── .gitattributes        … 文件对比
 ├── LICENSE               … 许可
 └── readme.md             … 说明文档
 ```
