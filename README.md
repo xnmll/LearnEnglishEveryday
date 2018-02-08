@@ -25,6 +25,7 @@
 .
 ├── notes                 … 笔记    
 ├── sign in               … 签到表 
+├── speech                … 口语
 ├── the literature        … 文献资料 
 ├── word                  … 单词本  
 ├── writing               … 考研作文（每日一篇）
