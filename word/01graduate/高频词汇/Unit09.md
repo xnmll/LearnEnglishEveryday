@@ -1,0 +1,91 @@
+## reject
+
+- rejection
+- decline
+- refuse
+- discard
+
+## occur
+
+- occurrence
+- incur
+- happen
+- arise
+
+## meet
+
+- assembel
+- congregate
+
+## personal
+
+- interpersonal
+- personality
+- impersonal
+- individual
+- private
+
+## indeed
+
+- certainly
+- definitely
+
+## manage
+
+- manager
+- manageable
+- management
+- administer
+- regulate
+- control
+
+## recognize
+
+- unrecognized
+- recognition
+
+## object
+
+- objection
+- objective
+- objectivity
+- objectiveness
+- object to sth . / doing sth
+
+## trust
+
+- distrust
+- mistrusted
+- trust fund
+- put trust in sb / sth
+
+## critical
+
+- critically
+- hypocritical
+- criticlze
+- be critical of
+
+## immediate
+
+- immediately
+- instant
+
+## let
+
+- outlet
+- let out
+- let alone
+
+## advocate
+
+## instance
+
+- instantly
+- instantaneously
+- for instance
+
+## preserve
+
+- maintain
+
